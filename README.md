@@ -4,10 +4,17 @@
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
 ##   PROBLEM STATEMENT AND DATASET
-Include the Problem Statement and Dataset.
+
+The objective of this project is to design and implement a Convolutional Neural Network (CNN) for image classification using a dataset available in the TensorFlow library. The model should be trained on preprocessed image data and evaluated for its performance.
+
+The task involves loading and preprocessing the dataset, building and training the CNN model, and analyzing its performance using training and validation loss plots. Finally, the trained model should be tested using new handwritten scanned images to verify its accuracy and generalization capability.
+
+<img width="1022" height="225" alt="image" src="https://github.com/user-attachments/assets/9fe30a6b-b4aa-4702-a166-8e00104feba9" />
+
 
 ## Neural Network Model
-Include the neural network model diagram.
+
+<img width="1052" height="512" alt="image" src="https://github.com/user-attachments/assets/ce182a2c-1306-40b1-a183-6a4f0674c849" />
 
 ## DESIGN STEPS
 
@@ -37,9 +44,9 @@ Evaluate the trained model on test images and verify the classification accuracy
 
 ## PROGRAM
 
-### Name:
+### Name: DIVYA LAKSHMI M
 
-### Register Number:
+### Register Number: 212224040082
 
 ```python
 class CNNClassifier(nn.Module):
